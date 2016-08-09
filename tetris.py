@@ -46,3 +46,4 @@ while True:
 	time.sleep(0.5)
 
 # testing pull request
+# this commit fixes #1
